@@ -1,7 +1,7 @@
 ### Oi!, Sou o Vitor!
 
-- 🔭 Estudante de Mecatrônica Industrial e Técnico em Eletrônica
-- 🌱 Desenvolvimento Web, Eletrônica, Mecatrônica e IoT
+- 🔭 Tecnólogo em Mecatrônica Industrial e Técnico em Eletrônica
+- 🌱 Desenvolvimento Web, Eletrônica, Mecatrônica, IoT, Dados e AI
 <div align="center">
   <a href="https://github.com/VitorBMelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorBMelo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
